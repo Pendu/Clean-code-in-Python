@@ -1,4 +1,4 @@
-PYTHON:=$(VIRTUAL_ENV)/bin/python
+PYTHON:=$ python
 
 test:
 	@$(PYTHON) -m doctest *.py
