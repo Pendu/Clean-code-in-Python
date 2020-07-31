@@ -24,6 +24,7 @@ class DynamicAttributes:
 
     def __init__(self, attribute):
         self.attribute = attribute
+        self._pattr = "privateattribute"
 
     def __getattr__(self, attr):
         if attr.startswith("fallback_"):
