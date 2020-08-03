@@ -1,9 +1,3 @@
-"""Clean Code in Python - Chapter 2: Pythonic Code
-
-> Callable objects
-
-"""
-
 from collections import defaultdict
 
 
