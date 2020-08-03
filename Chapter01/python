@@ -1,6 +1,0 @@
-test1=100
-print(f"{test1}")
-
-set1={(1,"one"),(2,"two")}
-dict1= {1:"one", 2: "wer"}
-print(dict1)
