@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce2aabe4-f713-40f3-905d-f6959a3d040c" name="Default Changelist" comment="" />
+    <list default="true" id="ce2aabe4-f713-40f3-905d-f6959a3d040c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Chapter05/Uop/decorator_class_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/Uop/decorator_class_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="ee79890f-2389-4d7f-9f0b-1b87184aa564" />
   <component name="ProjectId" id="1fBdtAiA7bE9M00cWtTNexBsiJS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +23,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -32,10 +37,33 @@
       <option name="presentableId" value="Default" />
       <updated>1595695631503</updated>
       <workItem from="1595695632593" duration="12000" />
+      <workItem from="1596452805356" duration="473000" />
     </task>
+    <task id="LOCAL-00001" summary="update Readme">
+      <created>1596452873028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596452873028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="157" y="27" width="1096" height="741" key="CommitChangelistDialog2" timestamp="1596452872957">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="157" y="27" width="1096" height="741" key="CommitChangelistDialog2/54.27.1312.741/1366.0.1360.768@54.27.1312.741" timestamp="1596452872957" />
+    <state x="205" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1596452881853">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="205" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/54.27.1312.741/1366.0.1360.768@54.27.1312.741" timestamp="1596452881853" />
   </component>
 </project>
